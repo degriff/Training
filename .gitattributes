@@ -1,0 +1,14 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Standard to msysgit
+*.doc diff=pandoc
+*.DOC diff=pandoc
+*.docx diff=pandoc
+*.DOCX diff=pandoc
+*.dot diff=pandoc
+*.DOT diff=pandoc
+*.pdf diff=pandoc
+*.PDF diff=pandoc
+*.rtf diff=pandoc
+*.RTF diff=pandoc
